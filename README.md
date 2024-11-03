@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahsaidabdeaaziz&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahsaidabdeaaziz" /> </p>
 
-Python & Django Developer
+Python & Backend Developer
 -------------------------
 
 I've been learning CS for 4 years and I'm now searching for work.
